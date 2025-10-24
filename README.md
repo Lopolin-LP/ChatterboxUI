@@ -5,6 +5,12 @@ A Simple Wrapper for `chatterbox-tts` to get a UI up and running! Designed to be
 
 ## Installation
 
+> [!IMPORTANT]
+> On Windows at least, you need to install some things using [Visual Studio Installer](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
+> Case in point, you need:
+> - "MSVC v143 – VS 2022 C++-x64/x86-Buildtools (newest)" or similar/newer
+> - "Windows 11 SDK" or similar/newer
+
 1. Download the release source code or whatever. You can also `git clone` this repo
 2. Extract Source if it's still an archive
 3. Open Terminal in Source Code folder
